@@ -24,10 +24,10 @@ description:         >
   A deep dive into code.
 
 # The tags listed as entries in the sidebar
-sidebar_tags:        [openwrt, yocto, nodejs, misc]
+sidebar_tags:        [openwrt, yocto, node.js, misc]
 
 # Fallback image and color if not overwritten for tag or post
-image:               /hydejack/public/img/nap.jpg
+image:               /soonsebii.github.io/public/img/nap.jpg
 color:               '#A85641'
 
 # Fonts
