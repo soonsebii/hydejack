@@ -7,11 +7,11 @@ gems:
 permalink:           pretty
 
 # Setup
-url:                 http://soonsebii.github.io
+url:                 https://soonsebii.github.io
 
 # Set to '' in case of hosting on GitHub pages,
 # i.e. `http://<username>.github.io`
-baseurl:             'http://soonsebii.github.io'
+baseurl:             'https://soonsebii.github.io'
 
 title:               make world
 
