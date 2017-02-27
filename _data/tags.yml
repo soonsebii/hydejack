@@ -13,14 +13,14 @@
 
 openwrt:
   name: OpenWRT
-  image: /hydejack/public/img/hyde.jpg
+  image: /soonsebii.github.io/public/img/hyde.jpg
   color: '#949667'
   description: >
     OpenWrt is described as a Linux distribution for embedded devices.
 
 yocto:
   name: Yocto 
-  image: /hydejack/public/img/jekyll.jpg
+  image: /soonsebii.github.io/public/img/jekyll.jpg
   color: '#949667'
   description: >
     The Yocto Project is an open source collaboration project that provides templates, tools and methods to help you create custom Linux-based systems for embedded products regardless of the hardware architecture.
@@ -33,6 +33,6 @@ node.js:
 
 misc:
   name: misc
-  image: /hydejack/public/img/jekyll.jpg
+  image: /soonsebii.github.io/public/img/jekyll.jpg
   color: '#949667'
   description: >

@@ -1,5 +1,5 @@
 ---
 layout: blog-by-tag
 tag: node.js
-permalink: /tag/nodejs/
+permalink: /tag/node.js/
 ---
