@@ -25,9 +25,9 @@ yocto:
   description: >
     The Yocto Project is an open source collaboration project that provides templates, tools and methods to help you create custom Linux-based systems for embedded products regardless of the hardware architecture.
 
-javascript:
-  name: Javascript 
-  image: /hydejack/public/img/jekyll.jpg
+node.js:
+  name: Node.js
+  image: /soonsebii.github.io/public/img/jekyll.jpg
   color: '#949667'
   description: >
 
