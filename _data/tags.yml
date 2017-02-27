@@ -27,12 +27,13 @@ yocto:
 
 node.js:
   name: Node.js
-  image: /soonsebii.github.io/public/img/jekyll.jpg
+  image: /soonsebii.github.io/public/img/node.png
   color: '#949667'
   description: >
+    Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 misc:
-  name: misc
+  name: Monologue
   image: /soonsebii.github.io/public/img/jekyll.jpg
   color: '#949667'
   description: >
